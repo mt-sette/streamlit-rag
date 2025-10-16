@@ -1,0 +1,2 @@
+embedding_model/** filter=lfs diff=lfs merge=lfs -text
+vector_index/** filter=lfs diff=lfs merge=lfs -text

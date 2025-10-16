@@ -9,8 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .streamlit/
-data/
+data/**
 
 # Vector database files
-vector_index/
-embedding_model/
+
+embedding_model/**
